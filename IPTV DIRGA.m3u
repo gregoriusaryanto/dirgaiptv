@@ -1362,3 +1362,6 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bloomberg International"  group-title="BERITA",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="starmovies"  group-title="Unsorted",starmovies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
