@@ -1392,3 +1392,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1589939287~acl=/hls-p/ingest_geo_6
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ANTV"  group-title="Unsoted",ANTV
 https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=164656136&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDc6MzE6MDQgUE0maGFzaF92YWx1ZT1JVTh0dEdJdDU1TXlYRjUwQVoyTHFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTE5MjIwMXwyMDIuODAuMjE5LjM4
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV ONE"  group-title="Unsorted",TV ONE
+https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybOQTcAnb67LppjiqsCX2sN4)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+
