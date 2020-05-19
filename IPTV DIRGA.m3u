@@ -1374,3 +1374,9 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cinema World"  group-title="Unsorted",Cinema World
 http://210.210.155.35/uq2663/h/h04/01.m3u8?
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GlobalTV"  group-title="Unsorted",GlobalTV
+https://etslive-2-vidio-com.akamaized.net/exp=1589938374~acl=/hls-p/ingest_778_*/*~hmac=8e8c42135d823be30a86ca5e39c08fdf337cd439bfd800399d912f0e69c03444/hls-p/ingest_778_720p/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="O Channel"  group-title="Unsorted",O Channel
+https://etslive-2-vidio-com.akamaized.net/exp=1589938616~acl=/hls-p/ingest_206_*/*~hmac=b1146f6af6af73a63733ebd96a9d9ff415376e81724d7b6a084f32466f923a51/hls-p/ingest_206_720p/index.m3u8
+
